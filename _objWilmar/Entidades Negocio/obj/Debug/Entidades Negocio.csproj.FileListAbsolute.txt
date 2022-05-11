@@ -1,0 +1,6 @@
+C:\Users\USER\Documents\Visual Studio 2019\Proyectos\_objWilmar\Entidades Negocio\bin\Debug\Entidades Negocio.dll
+C:\Users\USER\Documents\Visual Studio 2019\Proyectos\_objWilmar\Entidades Negocio\bin\Debug\Entidades Negocio.pdb
+C:\Users\USER\Documents\Visual Studio 2019\Proyectos\_objWilmar\Entidades Negocio\obj\Debug\Entidades Negocio.csproj.AssemblyReference.cache
+C:\Users\USER\Documents\Visual Studio 2019\Proyectos\_objWilmar\Entidades Negocio\obj\Debug\Entidades Negocio.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\Visual Studio 2019\Proyectos\_objWilmar\Entidades Negocio\obj\Debug\Entidades Negocio.dll
+C:\Users\USER\Documents\Visual Studio 2019\Proyectos\_objWilmar\Entidades Negocio\obj\Debug\Entidades Negocio.pdb

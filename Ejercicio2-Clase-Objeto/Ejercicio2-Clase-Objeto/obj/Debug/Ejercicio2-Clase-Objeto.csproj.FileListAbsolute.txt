@@ -1,0 +1,7 @@
+C:\Proyectos\Ejercicio2-Clase-Objeto\Ejercicio2-Clase-Objeto\bin\Debug\Ejercicio2-Clase-Objeto.exe.config
+C:\Proyectos\Ejercicio2-Clase-Objeto\Ejercicio2-Clase-Objeto\bin\Debug\Ejercicio2-Clase-Objeto.exe
+C:\Proyectos\Ejercicio2-Clase-Objeto\Ejercicio2-Clase-Objeto\bin\Debug\Ejercicio2-Clase-Objeto.pdb
+C:\Proyectos\Ejercicio2-Clase-Objeto\Ejercicio2-Clase-Objeto\obj\Debug\Ejercicio2-Clase-Objeto.csprojAssemblyReference.cache
+C:\Proyectos\Ejercicio2-Clase-Objeto\Ejercicio2-Clase-Objeto\obj\Debug\Ejercicio2-Clase-Objeto.csproj.CoreCompileInputs.cache
+C:\Proyectos\Ejercicio2-Clase-Objeto\Ejercicio2-Clase-Objeto\obj\Debug\Ejercicio2-Clase-Objeto.exe
+C:\Proyectos\Ejercicio2-Clase-Objeto\Ejercicio2-Clase-Objeto\obj\Debug\Ejercicio2-Clase-Objeto.pdb

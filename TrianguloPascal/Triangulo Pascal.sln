@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32319.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Triangulo Pascal", "Triangulo Pascal\Triangulo Pascal.csproj", "{006F8FD0-F4F4-4E38-BFD2-6601CC979C18}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{006F8FD0-F4F4-4E38-BFD2-6601CC979C18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{006F8FD0-F4F4-4E38-BFD2-6601CC979C18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{006F8FD0-F4F4-4E38-BFD2-6601CC979C18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{006F8FD0-F4F4-4E38-BFD2-6601CC979C18}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6F2725E1-328A-4F36-B2A8-56EC7B084AEB}
+	EndGlobalSection
+EndGlobal
