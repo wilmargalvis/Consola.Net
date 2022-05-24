@@ -1,0 +1,7 @@
+C:\Proyectos\Consola.net\Algoritmos\Algoritmos\bin\Debug\Algoritmos.exe.config
+C:\Proyectos\Consola.net\Algoritmos\Algoritmos\bin\Debug\Algoritmos.exe
+C:\Proyectos\Consola.net\Algoritmos\Algoritmos\bin\Debug\Algoritmos.pdb
+C:\Proyectos\Consola.net\Algoritmos\Algoritmos\obj\Debug\Algoritmos.csproj.AssemblyReference.cache
+C:\Proyectos\Consola.net\Algoritmos\Algoritmos\obj\Debug\Algoritmos.csproj.CoreCompileInputs.cache
+C:\Proyectos\Consola.net\Algoritmos\Algoritmos\obj\Debug\Algoritmos.exe
+C:\Proyectos\Consola.net\Algoritmos\Algoritmos\obj\Debug\Algoritmos.pdb
