@@ -17,7 +17,7 @@ namespace PruebaMatrizCoderby
         {
 
             //Solución Wilmar
-            AsientosDiponiblesWIlmar();
+            //AsientosDiponiblesWIlmar();
 
             //Solución Wilmar
             SeatingStudents();
@@ -168,8 +168,6 @@ namespace PruebaMatrizCoderby
                         {
                             //Console.Write("Ingrese componente:");
                             //linea = Console.ReadLine();                          
-
-
 
                             for (int i = 0; i < vector.Length; i++)
                             {
