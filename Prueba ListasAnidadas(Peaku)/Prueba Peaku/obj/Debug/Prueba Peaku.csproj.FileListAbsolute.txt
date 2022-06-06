@@ -1,0 +1,7 @@
+C:\Users\USER\source\repos\Prueba Peaku\Prueba Peaku\obj\Debug\Prueba Peaku.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\Prueba Peaku\Prueba Peaku\obj\Debug\Prueba Peaku.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Prueba Peaku\Prueba Peaku\bin\Debug\Prueba Peaku.exe.config
+C:\Users\USER\source\repos\Prueba Peaku\Prueba Peaku\bin\Debug\Prueba Peaku.exe
+C:\Users\USER\source\repos\Prueba Peaku\Prueba Peaku\bin\Debug\Prueba Peaku.pdb
+C:\Users\USER\source\repos\Prueba Peaku\Prueba Peaku\obj\Debug\Prueba Peaku.exe
+C:\Users\USER\source\repos\Prueba Peaku\Prueba Peaku\obj\Debug\Prueba Peaku.pdb
