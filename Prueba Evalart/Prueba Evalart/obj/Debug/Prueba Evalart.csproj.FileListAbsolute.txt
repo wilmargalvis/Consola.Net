@@ -1,7 +1,0 @@
-C:\Proyectos\Consola.net\Prueba Evalart\Prueba Evalart\obj\Debug\Prueba Evalart.csproj.AssemblyReference.cache
-C:\Proyectos\Consola.net\Prueba Evalart\Prueba Evalart\obj\Debug\Prueba Evalart.csproj.CoreCompileInputs.cache
-C:\Proyectos\Consola.net\Prueba Evalart\Prueba Evalart\bin\Debug\Prueba Evalart.exe.config
-C:\Proyectos\Consola.net\Prueba Evalart\Prueba Evalart\bin\Debug\Prueba Evalart.exe
-C:\Proyectos\Consola.net\Prueba Evalart\Prueba Evalart\bin\Debug\Prueba Evalart.pdb
-C:\Proyectos\Consola.net\Prueba Evalart\Prueba Evalart\obj\Debug\Prueba Evalart.exe
-C:\Proyectos\Consola.net\Prueba Evalart\Prueba Evalart\obj\Debug\Prueba Evalart.pdb

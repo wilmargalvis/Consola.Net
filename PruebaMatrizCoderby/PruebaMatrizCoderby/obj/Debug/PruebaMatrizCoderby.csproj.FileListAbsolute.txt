@@ -1,7 +1,0 @@
-C:\Proyectos\Consola.net\PruebaMatrizCoderby\PruebaMatrizCoderby\bin\Debug\PruebaMatrizCoderby.exe.config
-C:\Proyectos\Consola.net\PruebaMatrizCoderby\PruebaMatrizCoderby\bin\Debug\PruebaMatrizCoderby.exe
-C:\Proyectos\Consola.net\PruebaMatrizCoderby\PruebaMatrizCoderby\bin\Debug\PruebaMatrizCoderby.pdb
-C:\Proyectos\Consola.net\PruebaMatrizCoderby\PruebaMatrizCoderby\obj\Debug\PruebaMatrizCoderby.csproj.AssemblyReference.cache
-C:\Proyectos\Consola.net\PruebaMatrizCoderby\PruebaMatrizCoderby\obj\Debug\PruebaMatrizCoderby.csproj.CoreCompileInputs.cache
-C:\Proyectos\Consola.net\PruebaMatrizCoderby\PruebaMatrizCoderby\obj\Debug\PruebaMatrizCoderby.exe
-C:\Proyectos\Consola.net\PruebaMatrizCoderby\PruebaMatrizCoderby\obj\Debug\PruebaMatrizCoderby.pdb
