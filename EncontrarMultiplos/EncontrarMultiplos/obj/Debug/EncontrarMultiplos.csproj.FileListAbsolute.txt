@@ -1,0 +1,7 @@
+C:\Proyectos\EncontrarMultiplos\EncontrarMultiplos\obj\Debug\EncontrarMultiplos.csproj.AssemblyReference.cache
+C:\Proyectos\EncontrarMultiplos\EncontrarMultiplos\obj\Debug\EncontrarMultiplos.csproj.CoreCompileInputs.cache
+C:\Proyectos\EncontrarMultiplos\EncontrarMultiplos\bin\Debug\EncontrarMultiplos.exe.config
+C:\Proyectos\EncontrarMultiplos\EncontrarMultiplos\bin\Debug\EncontrarMultiplos.exe
+C:\Proyectos\EncontrarMultiplos\EncontrarMultiplos\bin\Debug\EncontrarMultiplos.pdb
+C:\Proyectos\EncontrarMultiplos\EncontrarMultiplos\obj\Debug\EncontrarMultiplos.exe
+C:\Proyectos\EncontrarMultiplos\EncontrarMultiplos\obj\Debug\EncontrarMultiplos.pdb
