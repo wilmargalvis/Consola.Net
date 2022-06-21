@@ -1,0 +1,7 @@
+C:\Proyectos\FrasesAlReves\FrasesAlReves\bin\Debug\FrasesAlReves.exe.config
+C:\Proyectos\FrasesAlReves\FrasesAlReves\bin\Debug\FrasesAlReves.exe
+C:\Proyectos\FrasesAlReves\FrasesAlReves\bin\Debug\FrasesAlReves.pdb
+C:\Proyectos\FrasesAlReves\FrasesAlReves\obj\Debug\FrasesAlReves.csproj.AssemblyReference.cache
+C:\Proyectos\FrasesAlReves\FrasesAlReves\obj\Debug\FrasesAlReves.csproj.CoreCompileInputs.cache
+C:\Proyectos\FrasesAlReves\FrasesAlReves\obj\Debug\FrasesAlReves.exe
+C:\Proyectos\FrasesAlReves\FrasesAlReves\obj\Debug\FrasesAlReves.pdb
