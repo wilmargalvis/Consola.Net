@@ -5,3 +5,10 @@ C:\Proyectos\FrasesAlReves\FrasesAlReves\obj\Debug\FrasesAlReves.csproj.Assembly
 C:\Proyectos\FrasesAlReves\FrasesAlReves\obj\Debug\FrasesAlReves.csproj.CoreCompileInputs.cache
 C:\Proyectos\FrasesAlReves\FrasesAlReves\obj\Debug\FrasesAlReves.exe
 C:\Proyectos\FrasesAlReves\FrasesAlReves\obj\Debug\FrasesAlReves.pdb
+C:\ProyectosW\Consola.Net\FrasesAlReves\FrasesAlReves\bin\Debug\FrasesAlReves.exe.config
+C:\ProyectosW\Consola.Net\FrasesAlReves\FrasesAlReves\bin\Debug\FrasesAlReves.exe
+C:\ProyectosW\Consola.Net\FrasesAlReves\FrasesAlReves\bin\Debug\FrasesAlReves.pdb
+C:\ProyectosW\Consola.Net\FrasesAlReves\FrasesAlReves\obj\Debug\FrasesAlReves.csproj.AssemblyReference.cache
+C:\ProyectosW\Consola.Net\FrasesAlReves\FrasesAlReves\obj\Debug\FrasesAlReves.csproj.CoreCompileInputs.cache
+C:\ProyectosW\Consola.Net\FrasesAlReves\FrasesAlReves\obj\Debug\FrasesAlReves.exe
+C:\ProyectosW\Consola.Net\FrasesAlReves\FrasesAlReves\obj\Debug\FrasesAlReves.pdb

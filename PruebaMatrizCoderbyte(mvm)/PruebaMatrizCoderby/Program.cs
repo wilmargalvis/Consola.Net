@@ -204,7 +204,7 @@ namespace PruebaMatrizCoderby
                 }
                 else
                 {
-                    Console.WriteLine("Incorrecto Correcto :" + k);
+                    Console.WriteLine("Incorrecto Correcto, debe ser divisible por 2 :" + k);
                 }
 
             }
@@ -230,8 +230,6 @@ namespace PruebaMatrizCoderby
                     if ((f + 1) < mat.GetLength(0))
                     {
                         int valor = mat[f, c];
-
-
                         int valorSiguiente = mat[f + 1, c];
 
                         disponiblesVertical = valor + ";" + valorSiguiente.ToString();
@@ -243,57 +241,51 @@ namespace PruebaMatrizCoderby
 
                     }
 
-
                 }
 
-
-
-
-
             }
-            Listar();
+            Listar("Vertical");
         }
         public static void ImprimirDisponiblesHorinzontal()
         {
 
-            int sumatoria = 0;
             string disponiblesPar = "";
             for (int f = 0; f < mat.GetLength(0); f++)
             {
                 disponiblesPar = "";
-                for (int c = 0; c < mat.GetLength(1); c++)
+                for (int c = 0; c < mat.GetLength(1)-1; c++)
                 {
                     int valor = mat[f, c];
-                    sumatoria = sumatoria + valor;
+                    int valorSiguiente = mat[f, c + 1];
 
+                    disponiblesPar = valor + ";" + valorSiguiente.ToString(); //disponiblesPar + ";" + valor.ToString();
 
-                    disponiblesPar = disponiblesPar + ";" + valor.ToString();
+                    if (!disponiblesPar.Contains("0"))
+                    {
+                        lista.Add(disponiblesPar);
+                    }
 
                 }
-
-                if (!disponiblesPar.Contains("0"))
-                {
-                    lista.Add(disponiblesPar);
-                }
-
-
 
             }
-            //Listar();
+            Listar("horizontal");
         }
 
 
-        public static void Listar()
+        public static void Listar(string direccion)
         {
             if (lista.Count > 0)
             {
 
-                Console.Write("Asientos pares disponibles Horizontal  y Vertical" + " ");
+                Console.Write("Asientos pares disponibles " + direccion + " ");
                 foreach (string valor in lista)
                 {
                     Console.Write(valor + " ");
                 }
+                Console.WriteLine();
+                Console.WriteLine();
             }
+            lista = new List<string>();
         }
 
 

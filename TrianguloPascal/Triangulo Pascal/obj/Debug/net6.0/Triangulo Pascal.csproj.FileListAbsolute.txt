@@ -13,3 +13,18 @@ C:\Proyectos\Consola.net\Triangulo Pascal\Triangulo Pascal\obj\Debug\net6.0\refi
 C:\Proyectos\Consola.net\Triangulo Pascal\Triangulo Pascal\obj\Debug\net6.0\Triangulo Pascal.pdb
 C:\Proyectos\Consola.net\Triangulo Pascal\Triangulo Pascal\obj\Debug\net6.0\Triangulo Pascal.genruntimeconfig.cache
 C:\Proyectos\Consola.net\Triangulo Pascal\Triangulo Pascal\obj\Debug\net6.0\ref\Triangulo Pascal.dll
+C:\ProyectosW\Consola.Net\TrianguloPascal\Triangulo Pascal\bin\Debug\net6.0\Triangulo Pascal.exe
+C:\ProyectosW\Consola.Net\TrianguloPascal\Triangulo Pascal\bin\Debug\net6.0\Triangulo Pascal.deps.json
+C:\ProyectosW\Consola.Net\TrianguloPascal\Triangulo Pascal\bin\Debug\net6.0\Triangulo Pascal.runtimeconfig.json
+C:\ProyectosW\Consola.Net\TrianguloPascal\Triangulo Pascal\bin\Debug\net6.0\Triangulo Pascal.dll
+C:\ProyectosW\Consola.Net\TrianguloPascal\Triangulo Pascal\bin\Debug\net6.0\Triangulo Pascal.pdb
+C:\ProyectosW\Consola.Net\TrianguloPascal\Triangulo Pascal\obj\Debug\net6.0\Triangulo Pascal.csproj.AssemblyReference.cache
+C:\ProyectosW\Consola.Net\TrianguloPascal\Triangulo Pascal\obj\Debug\net6.0\Triangulo Pascal.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProyectosW\Consola.Net\TrianguloPascal\Triangulo Pascal\obj\Debug\net6.0\Triangulo Pascal.AssemblyInfoInputs.cache
+C:\ProyectosW\Consola.Net\TrianguloPascal\Triangulo Pascal\obj\Debug\net6.0\Triangulo Pascal.AssemblyInfo.cs
+C:\ProyectosW\Consola.Net\TrianguloPascal\Triangulo Pascal\obj\Debug\net6.0\Triangulo Pascal.csproj.CoreCompileInputs.cache
+C:\ProyectosW\Consola.Net\TrianguloPascal\Triangulo Pascal\obj\Debug\net6.0\Triangulo Pascal.dll
+C:\ProyectosW\Consola.Net\TrianguloPascal\Triangulo Pascal\obj\Debug\net6.0\refint\Triangulo Pascal.dll
+C:\ProyectosW\Consola.Net\TrianguloPascal\Triangulo Pascal\obj\Debug\net6.0\Triangulo Pascal.pdb
+C:\ProyectosW\Consola.Net\TrianguloPascal\Triangulo Pascal\obj\Debug\net6.0\Triangulo Pascal.genruntimeconfig.cache
+C:\ProyectosW\Consola.Net\TrianguloPascal\Triangulo Pascal\obj\Debug\net6.0\ref\Triangulo Pascal.dll

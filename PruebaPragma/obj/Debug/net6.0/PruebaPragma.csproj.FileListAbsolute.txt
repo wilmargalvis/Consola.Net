@@ -1,0 +1,14 @@
+C:\ProyectosW\Consola.Net\PruebaPragma\bin\Debug\net6.0\PruebaPragma.exe
+C:\ProyectosW\Consola.Net\PruebaPragma\bin\Debug\net6.0\PruebaPragma.deps.json
+C:\ProyectosW\Consola.Net\PruebaPragma\bin\Debug\net6.0\PruebaPragma.runtimeconfig.json
+C:\ProyectosW\Consola.Net\PruebaPragma\bin\Debug\net6.0\PruebaPragma.dll
+C:\ProyectosW\Consola.Net\PruebaPragma\bin\Debug\net6.0\PruebaPragma.pdb
+C:\ProyectosW\Consola.Net\PruebaPragma\obj\Debug\net6.0\PruebaPragma.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProyectosW\Consola.Net\PruebaPragma\obj\Debug\net6.0\PruebaPragma.AssemblyInfoInputs.cache
+C:\ProyectosW\Consola.Net\PruebaPragma\obj\Debug\net6.0\PruebaPragma.AssemblyInfo.cs
+C:\ProyectosW\Consola.Net\PruebaPragma\obj\Debug\net6.0\PruebaPragma.csproj.CoreCompileInputs.cache
+C:\ProyectosW\Consola.Net\PruebaPragma\obj\Debug\net6.0\PruebaPragma.dll
+C:\ProyectosW\Consola.Net\PruebaPragma\obj\Debug\net6.0\refint\PruebaPragma.dll
+C:\ProyectosW\Consola.Net\PruebaPragma\obj\Debug\net6.0\PruebaPragma.pdb
+C:\ProyectosW\Consola.Net\PruebaPragma\obj\Debug\net6.0\PruebaPragma.genruntimeconfig.cache
+C:\ProyectosW\Consola.Net\PruebaPragma\obj\Debug\net6.0\ref\PruebaPragma.dll

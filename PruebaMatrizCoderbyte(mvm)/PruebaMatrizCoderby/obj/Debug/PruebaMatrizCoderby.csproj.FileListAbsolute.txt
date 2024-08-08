@@ -13,3 +13,10 @@ C:\Proyectos\Consola.net\PruebaMatrizCoderbyte(mvm)\PruebaMatrizCoderby\obj\Debu
 C:\Proyectos\Consola.net\PruebaMatrizCoderbyte(mvm)\PruebaMatrizCoderby\obj\Debug\PruebaMatrizCoderby.csproj.CoreCompileInputs.cache
 C:\Proyectos\Consola.net\PruebaMatrizCoderbyte(mvm)\PruebaMatrizCoderby\obj\Debug\PruebaMatrizCoderby.exe
 C:\Proyectos\Consola.net\PruebaMatrizCoderbyte(mvm)\PruebaMatrizCoderby\obj\Debug\PruebaMatrizCoderby.pdb
+C:\ProyectosW\Consola.Net\PruebaMatrizCoderbyte(mvm)\PruebaMatrizCoderby\bin\Debug\PruebaMatrizCoderby.exe.config
+C:\ProyectosW\Consola.Net\PruebaMatrizCoderbyte(mvm)\PruebaMatrizCoderby\bin\Debug\PruebaMatrizCoderby.exe
+C:\ProyectosW\Consola.Net\PruebaMatrizCoderbyte(mvm)\PruebaMatrizCoderby\bin\Debug\PruebaMatrizCoderby.pdb
+C:\ProyectosW\Consola.Net\PruebaMatrizCoderbyte(mvm)\PruebaMatrizCoderby\obj\Debug\PruebaMatrizCoderby.csproj.AssemblyReference.cache
+C:\ProyectosW\Consola.Net\PruebaMatrizCoderbyte(mvm)\PruebaMatrizCoderby\obj\Debug\PruebaMatrizCoderby.csproj.CoreCompileInputs.cache
+C:\ProyectosW\Consola.Net\PruebaMatrizCoderbyte(mvm)\PruebaMatrizCoderby\obj\Debug\PruebaMatrizCoderby.exe
+C:\ProyectosW\Consola.Net\PruebaMatrizCoderbyte(mvm)\PruebaMatrizCoderby\obj\Debug\PruebaMatrizCoderby.pdb
