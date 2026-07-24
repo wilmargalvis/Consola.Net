@@ -35,9 +35,9 @@ class Program
         Salida: no  */
 
         //3 maneras de construir el fibonaci
+        Console.WriteLine(FibonacciChecker(int.Parse(Console.ReadLine())));
         //Console.WriteLine(FibonacciCheckerv1(int.Parse(Console.ReadLine())));
         //Console.WriteLine(FibonacciCheckerv2(int.Parse(Console.ReadLine())));
-        //Console.WriteLine(FibonacciChecker(int.Parse(Console.ReadLine())));
 
         /*haga que la función Consecutive(arr) tome la matriz de números enteros almacenados en arr y devuelva el número mínimo de números enteros necesarios
          * para hacer que el contenido de arr sea consecutivo desde el número más bajo hasta el número más alto. Por ejemplo: si arr contiene [4,8,6],
@@ -914,7 +914,25 @@ class Program
     }
 
     //Mejor versión
-    static string FibonacciChecker(int num)
+    public static string FibonacciChecker(int num)
+    {
+        if (num < 0) return "no";
+        if (num == 0) return "yes";
+
+        int a = 0;
+        int b = 1;
+
+        while (b < num)
+        {
+            int t = a + b;
+            a = b;
+            b = t;
+        }
+
+        return b == num ? "yes" : "no";
+    }
+
+    static string FibonacciCheckerv1(int num)
     {
         // Inicializamos la secuencia de Fibonacci con los primeros dos números
         long NumFibonaci = 0;
@@ -946,7 +964,7 @@ class Program
         return encontrado ? "yes" : "no";
     }
 
-    public static string FibonacciCheckerv1(int num)
+    public static string FibonacciCheckerv2(int num)
     {
 
         string mensaje = "";
@@ -988,33 +1006,6 @@ class Program
         return "no";
     }
 
-    public static string FibonacciCheckerv2(int num)
-    {
-        // Inicializamos una lista con el primer valor de la secuencia de Fibonacci
-        List<int> prev = new List<int> { 0 };
-
-        // Recorremos cada número en la secuencia hasta e incluyendo el número de entrada
-        for (int i = 1; i <= num; i++)
-        {
-            // Calculamos el siguiente número en la secuencia sumando los dos anteriores
-            int check = i + prev[0];
-
-            // Si el número calculado es igual al número de entrada, retornamos "yes"
-            if (check == num)
-            {
-                return "yes";
-            }
-
-            // Agregamos el número actual al inicio de la lista para llevar un registro del anterior
-            prev.Insert(0, i);
-
-            // Actualizamos el número actual para ser el siguiente número en la secuencia
-            i = check;
-        }
-
-        // Si el número de entrada no está en la secuencia de Fibonacci, retornamos "no"
-        return "no";
-    }
 }
 
 
