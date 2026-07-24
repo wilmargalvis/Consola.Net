@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\ProyectosW\\Consola.Net\\PruebaPragma\\PruebaPragma.csproj": {}
+    "C:\\Proyectos\\Consola.Net\\PruebaPragma\\PruebaPragma.csproj": {}
   },
   "projects": {
-    "C:\\ProyectosW\\Consola.Net\\PruebaPragma\\PruebaPragma.csproj": {
+    "C:\\Proyectos\\Consola.Net\\PruebaPragma\\PruebaPragma.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\ProyectosW\\Consola.Net\\PruebaPragma\\PruebaPragma.csproj",
+        "projectUniqueName": "C:\\Proyectos\\Consola.Net\\PruebaPragma\\PruebaPragma.csproj",
         "projectName": "PruebaPragma",
-        "projectPath": "C:\\ProyectosW\\Consola.Net\\PruebaPragma\\PruebaPragma.csproj",
-        "packagesPath": "C:\\Users\\wilmar.galvis\\.nuget\\packages\\",
-        "outputPath": "C:\\ProyectosW\\Consola.Net\\PruebaPragma\\obj\\",
+        "projectPath": "C:\\Proyectos\\Consola.Net\\PruebaPragma\\PruebaPragma.csproj",
+        "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
+        "outputPath": "C:\\Proyectos\\Consola.Net\\PruebaPragma\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\wilmar.galvis\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,9 +26,8 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "D:\\XM\\CNDNET_MVC\\FUENTES\\XM.CNDNET\\Librerias\\telerik.ui.for.aspnet.core": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://nuget.telerik.com/v3/index.json": {}
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
@@ -40,7 +39,13 @@
           "warnAsError": [
             "NU1605"
           ]
-        }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
         "net6.0": {
@@ -61,7 +66,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.316\\RuntimeIdentifierGraph.json"
         }
       }
     }
