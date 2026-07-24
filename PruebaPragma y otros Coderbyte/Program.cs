@@ -298,6 +298,8 @@ class Program
         string[] arr = { "4", "1:1", "2:2", "1:2", "0:1" }; // "4", "3:1", "2:2", "1:2", "0:1"   "4", "1:1", "2:2", "1:2", "0:1"
         Console.WriteLine(GasStation(arr)); // Por verificar
 
+        //imprimirVec(vec);
+
 
     }
 
@@ -692,6 +694,22 @@ class Program
         return new string(Array); // Convertir el array de caracteres de nuevo a cadena
     }
 
+    public static string LetterChangesTest(string str)
+    {
+
+        char[] cadena = str.ToCharArray();
+        char[] nuevaCadena = new char[cadena.Length];
+
+
+        for (int i = 0; i < cadena.Length; i++)
+        {
+            nuevaCadena[i] = cadena[i];
+        }
+        //perdón, faltó tiempito para completarlo
+        return str;
+
+    }
+
     // Función que calcula cuántos estudiantes adicionales pueden sentarse
     public static int SeatingStudents(int[] arr)
     {
@@ -1004,6 +1022,16 @@ class Program
         //}
 
         return "no";
+    }
+
+    public static void imprimirVec(int[] vec)
+    {
+
+        Console.WriteLine("Imprimiendo vector" + "\n");
+        for (int i = 0; i < vec.Length; i++)
+        {
+            Console.WriteLine(vec[i]);
+        }
     }
 
 }
