@@ -35,7 +35,7 @@ class Program
         Salida: no  */
 
         //3 maneras de construir el fibonaci
-        Console.WriteLine(FibonacciChecker(int.Parse(Console.ReadLine())));
+        //Console.WriteLine(FibonacciChecker(int.Parse(Console.ReadLine())));
         //Console.WriteLine(FibonacciCheckerv1(int.Parse(Console.ReadLine())));
         //Console.WriteLine(FibonacciCheckerv2(int.Parse(Console.ReadLine())));
 
@@ -127,8 +127,8 @@ class Program
         Entrada: [8, 1, 8]
         Salida: 6*/
 
-        //int[] arr1 = { 12, 2, 6, 7, 11 };
-        //Console.WriteLine(SeatingStudents(arr1));
+        int[] arr1 = { 12, 2, 6, 7, 11 };
+        Console.WriteLine(SeatingStudents(arr1));
 
 
         /*Cambios de letras
@@ -295,8 +295,8 @@ class Program
         //Console.WriteLine(StockPicker(arr));
 
 
-        string[] arr = { "4", "1:1", "2:2", "1:2", "0:1" }; // "4", "3:1", "2:2", "1:2", "0:1"   "4", "1:1", "2:2", "1:2", "0:1"
-        Console.WriteLine(GasStation(arr)); // Por verificar
+        //string[] arr = { "4", "1:1", "2:2", "1:2", "0:1" }; // "4", "3:1", "2:2", "1:2", "0:1"   "4", "1:1", "2:2", "1:2", "0:1"
+        //Console.WriteLine(GasStation(arr)); // Por verificar
 
         //imprimirVec(vec);
 
@@ -721,12 +721,13 @@ class Program
         {
             if (!ocupados.Contains(i))
             {
-                // Verificar a la derecha
+                // Verifica asiento de la derecha: i % 2 == 1 comprueba si es impar(asiento de la izquierda), y !ocupados.Contains(i + 1) valida si el asiendo del lado derecho (i + 1) NO está ocupado
+                // si i es un asiento izquierdo, y el asiento de la derecha existe y está libre, entonces se incrementa count.
                 if (i % 2 == 1 && !ocupados.Contains(i + 1) && i + 1 <= k)
                 {
                     count++;
                 }
-                // Verificar abajo
+                // Verificar asiento de abajo: !ocupados.Contains(i + 2) verifica que ese asiento de abajo (i + 2) NO esté ocupado.
                 if (i < k - 1 && !ocupados.Contains(i + 2))
                 {
                     count++;
