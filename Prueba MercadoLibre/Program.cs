@@ -3,8 +3,8 @@
 
 /*La diferencia de un par de elementos en el array a está definida como a[j] - a[i] donde i < j y a[i] < a[j]
 
-Completa el método maximaDiferencia que recibirá un array a de enteros y calculará la máxima diferencia para ese array.
-Si no se puede calcular la máxima diferencia (por ejemplo si a está en orden descendente) entonces retorna -1.
+Completa el método maximaDiferencia que recibirá un array 'a' de enteros y calculará la máxima diferencia para ese array.
+Si no se puede calcular la máxima diferencia (por ejemplo si a' está en orden descendente) entonces retorna -1.
 
 Ejemplo:
 Dado el array [15, 3, 6, 10], las diferencias que se tienen son:
@@ -27,6 +27,9 @@ static int maximaDiferencia(int[] arr)
 
     for (int i = 1; i < arr.Length; i++)
     {
+        // No se requiere validación si el array 'a' está en orden descendente,
+        // porque en ese caso nunca encuentra un número mayor que el mínimo visto anteriormente entonces devolverá -1 al final
+
         if (arr[i] > minimo)
         {
             int diferencia = arr[i] - minimo;
